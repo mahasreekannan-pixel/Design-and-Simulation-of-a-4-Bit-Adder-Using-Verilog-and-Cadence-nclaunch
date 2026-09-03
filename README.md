@@ -112,4 +112,4 @@ Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
 <br>Simulated the design using Cadence nclaunch and verified the output.
-<br>Observed correct addition functionality for all test cases.
+Observed correct addition functionality for all test cases.
